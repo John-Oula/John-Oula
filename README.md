@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Company-visit-blue)](https://www.antratechstudios.com)
 <br>
 
-## I'm an Aeronautical Engineer with a Software Engineering background
+## Aeronautical Engineer with a Software Engineering background
 
 - 🔭 Currently a Localization engineer
 - 🔭 Research based on Fault-Tolerant Flight Control Systems
