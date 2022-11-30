@@ -5,10 +5,10 @@
 
 ## Aeronautical Engineer with a Software Engineering background
 
-- 🔭 Currently a Localization engineer
-- 🔭 Research based on Fault-Tolerant Flight Control Systems
-- 🔭 Founder of [Antratech studios][website]
-- 🔭 4 years of programming and web development experience
+- 👨🏾‍💻 Currently a Localization engineer
+- 🛩 Research based on Fault-Tolerant Flight Control Systems
+- 🏛 Founder of [Antratech studios][website]
+- 💻 4 years of programming and web development experience
 
 ### Find me on:
 
