@@ -5,8 +5,7 @@
 
 ## Aeronautical Engineer with a Software Engineering background
 
-- 👨🏾‍💻 Currently a practising Localization engineer
-- 🛩 Research based on Autonomous Trajectory Tracking Control System for Fixed-Wing UAVs
+- 🛩 Research interest is on intelligent UAV control
 - 🏛 Founder of [Antratech studios][website]
 - 💻 4 years of programming and web development experience
 
