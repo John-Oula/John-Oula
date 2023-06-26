@@ -9,7 +9,7 @@
 - 🏛 Founder of [Antratech studios][website]
 - 💻 4 years of programming and web development experience
 
-
+<br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-oula&show_icons=true&locale=en&layout=compact" alt="john-oula" /></p>
 
 <br />
