@@ -8,6 +8,7 @@
 - 🛩 Research interest is on intelligent UAV control
 - 🏛 Founder of [Antratech studios][website]
 - 💻 4 years of programming and web development experience
+- Stay tuned for my flight control and programming series on [ Medium ](https://medium.com/@johnoula)
 
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-oula&show_icons=true&locale=en&layout=compact" alt="john-oula" /></p>
