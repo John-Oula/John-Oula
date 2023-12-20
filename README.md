@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Company-visit-blue)](https://www.antratechstudios.com)
 <br>
 
-## Aeronautical Engineer with a Development background
+## Aeronautical Engineer with a Software development background
 
 - 🛩 Research interest is on intelligent UAV control
 - 🏛 Founder of [Antratech studios][website]
