@@ -5,10 +5,11 @@
 
 ## Aeronautical Engineer with a Software development background | Drone Designer & Developer | Three.js Developer
 
-- 🛩 Research interest is on intelligent UAV control
+- Creator of [ AeroCoder ](http://aerocoder.vercel.app)
+- 🛩 Research interest - Flight Dynamics & Control
 - 🏛 Founder of [Antratech studios][website]
 - 💻 5 years of programming and web development experience
-- Stay tuned for my flight control and programming series on [ Medium ](https://medium.com/@johnoula)
+
 
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-oula&show_icons=true&locale=en&layout=compact" alt="john-oula" /></p>
