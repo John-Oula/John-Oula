@@ -7,7 +7,7 @@
 
 - Creator of [ AeroCoder ](http://aerocoder.vercel.app)
 - 🛩 Research interest - Flight Dynamics & Autonomous Flight Control
-- 🏛 Founder of [Antratech studios][website]
+- 🏛 [Antratech studios][website]
 - 💻 5 years of programming and web development experience
 
 
