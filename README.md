@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Company-visit-blue)](https://www.antratechstudios.com)
 <br>
 
-## Aeronautical Engineer | Software developer | Drone Engineer | Three.js Developer | Mechanical Design Engineer
+## Aeronautical Engineer | Flight Control Engineer | Software developer | Drone Engineer | Three.js Developer 
 
 - Creator of [ AeroCoder ](http://aerocoder.vercel.app)
 - 🛩 Research interest - Flight Dynamics & Autonomous Flight Control
