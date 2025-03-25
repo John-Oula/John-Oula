@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Personal_Website-visit-blue)](https://www.johnoula.com/en-US) [![Website](https://img.shields.io/badge/AeroCoder-visit-orange)](https://aerocoder.vercel.app)
 <br>
 
-## Aeronautical Engineer | Flight Control Engineer (飞行汽车控制工程师)| Software developer | Drone Engineer | Three.js Developer 
+## Aeronautical Engineer | Flight Control Engineer (飞行汽车控制工程师)| Software developer (Full-stack) | Drone Engineer | Three.js Developer 
 
 - Creator of [ AeroCoder ](http://aerocoder.vercel.app)
 - 🛩 Research interest - Flight Dynamics & Autonomous Flight Control
