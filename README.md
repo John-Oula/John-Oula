@@ -3,12 +3,14 @@
 [![Website](https://img.shields.io/badge/Personal_Website-visit-blue)](https://www.johnoula.com/en-US) [![Website](https://img.shields.io/badge/AeroCoder-visit-orange)](https://aerocoder.vercel.app)
 <br>
 
-## Aeronautical Engineer | Flight Control Engineer (飞行汽车控制工程师)| Software developer (Full-stack) | Drone Engineer | Three.js Developer 
+## Aeronautical Engineer | Flight Control Engineer (飞行汽车控制工程师) | Drone Engineer
 
 - Creator of [ AeroCoder ](http://aerocoder.vercel.app)
-- 🛩 Research interest - Flight Dynamics & Autonomous Flight Control
-- 🏛 [Antratech studios][website]
-- 💻 6 years of programming and full-stack software development experience
+- 🛩 Professional & Research interest
+    - Aircraft Conceptual Design (UAV & GA)
+    - Guidance, Navigation & Control
+    - Flight Dynamics, Modeling & Simulation
+    - UAV Autonomy
 - 🏫 南京航空航天大学校友 (Alumni)
 
 
@@ -26,8 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=matlab,autocad,express,react,nodejs,python,flask,html,css,javascript,nextjs,electron,firebase,figma" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,pycharm,mysql,postgresql,webpack,threejs,supabase" /><br>
+    <img src="https://skillicons.dev/icons?i=matlab,autocad,react,nodejs,c,ros,linux,python,javascript,nextjs,figma" />
+    <img src="https://skillicons.dev/icons?i=git,pycharm" /><br>
 </div>
 
 <h3 align="left">Connect with me:</h3>
