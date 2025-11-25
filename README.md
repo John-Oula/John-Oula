@@ -7,10 +7,10 @@
 
 - Creator of [ AeroCoder ](http://aerocoder.vercel.app)
 - 🛩 Professional & Research interest
-    - Aircraft Conceptual Design (UAV & GA)
+    - Aircraft Conceptual Design (CCUAV & UAM eVTOL)
     - Guidance, Navigation & Control
     - Flight Dynamics, Modeling & Simulation
-    - UAV Autonomy
+    - Multi-UAV Autonomy & MUM-T (Manned-Unmanned Teaming)
 - 🏫 南京航空航天大学校友 (Alumni)
 
 
