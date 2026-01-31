@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=matlab,autocad,react,nodejs,c,cpp,ros2,linux,python,javascript,nextjs,figma" />
+    <img src="https://skillicons.dev/icons?i=matlab,autocad,react,nodejs,c,cpp,ros,linux,python,javascript,nextjs,figma" />
     <img src="https://skillicons.dev/icons?i=git,pycharm" /><br>
 </div>
 
